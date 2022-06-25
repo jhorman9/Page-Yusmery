@@ -232,4 +232,9 @@
         background: linear-gradient(to left,pink, rgb(253, 253, 253),pink);
         box-sizing: border-box;
     }
+    
+    .icon-contact a{
+    font-size: 35px;
+    margin: 25px;
+}
 }
