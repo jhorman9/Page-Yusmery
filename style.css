@@ -223,6 +223,10 @@
     .card .card2{
         margin: 15px 28px ;
     }
+    
+    .icon-contact a{
+    font-size: 30px;
+    }
 }
 
 @media (min-width: 701px) and (max-width: 1000px){
@@ -233,7 +237,4 @@
         box-sizing: border-box;
     }
     
-    .icon-contact a{
-    font-size: 30px;
-}
 }
